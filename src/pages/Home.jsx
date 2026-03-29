@@ -136,7 +136,7 @@ function CarouselHero() {
       <div className="absolute top-1/4 right-1/4 w-64 h-64 border border-gold-500/10 rounded-full animate-pulse hidden lg:block" />
       <div className="absolute bottom-1/3 right-1/3 w-96 h-96 border border-gold-500/5 rounded-full hidden lg:block" />
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-28 sm:pt-32 pb-20 lg:pt-0 lg:pb-0">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-36 sm:pt-32 pb-20 lg:pt-0 lg:pb-0">
         <div className="max-w-3xl overflow-hidden">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
