@@ -606,13 +606,7 @@ const siteData = {
     ],
     heroSubtitle:
       "Real feedback from businesses that rely on Mobifuel to keep their operations running. Our reputation is built one delivery at a time.",
-    ratingBreakdown: [
-      { stars: 5, count: 22 },
-      { stars: 4, count: 7 },
-      { stars: 3, count: 2 },
-      { stars: 2, count: 0 },
-      { stars: 1, count: 0 },
-    ],
+    ratingBreakdown: { 5: 22, 4: 7, 3: 2, 2: 0, 1: 0 },
     items: [
       {
         name: "Tonderai Mukwena",
